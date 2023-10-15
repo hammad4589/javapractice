@@ -188,3 +188,70 @@
 
 
 
+//math experation and operators
+
+//  increment 
+//  var num = 5;
+
+//  console.log(num++);
+
+//  console.log(num)
+
+// //  ans = 5 
+// // /ans = 6
+
+// var numb = (1+4)* 8 ;
+// console.log(numb);
+// // ans 40 
+
+// var nume = 1+4*8 ;
+
+// console.log(nume);
+
+// ans  33 
+
+
+
+//  string se pehly agar plus lagadengy to wo str ko num me convert krdega 
+
+// eg   
+
+// var num1 = +prompt("enter your age") 
+// var num2 = +prompt("enter your brother age")
+
+// console.log(num1 + num2 )
+
+// ans 10
+
+
+//  == only match values 
+// === match data type as 
+// !== not equal t0
+// > greater 
+// < less than 
+// >= greater  or equal to
+// <= less than or equal
+
+
+
+
+//  if is statement
+
+var age = +prompt("enter your age")
+
+if (age === 18){
+    console.log("eligible")
+}
+
+else{
+    console.log("not eligible")
+}
+
+
+
+
+
+
+
+
+
